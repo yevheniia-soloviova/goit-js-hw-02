@@ -1,4 +1,4 @@
-const orderPieces = null;
+let orderPieces = null;
 const credits = 23580;
 const pricePerDroid = 3000;
 const CANCELED_BY_USER = `Отменено пользователем!`;
